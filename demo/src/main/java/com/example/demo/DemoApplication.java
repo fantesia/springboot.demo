@@ -13,7 +13,7 @@ import org.springframework.http.HttpStatus;
 * @module  : 模块描述
 * @comment : 模块包括的子功能
 * @Description: SpringBoot启动类 
-* @author fanqingqing fanqingqing@sjq-it.com
+* @author fanqingqing
 * @date 2017年6月19日 下午3:18:31
  */
 @SpringBootApplication
@@ -30,7 +30,7 @@ public class DemoApplication {
 	 * @return    设定文件
 	 * @return EmbeddedServletContainerCustomizer    返回类型
 	 * @throws
-	 * @author fanqingqing fanqingqing@sjq-it.com   
+	 * @author fanqingqing
 	 * @date 2017年6月19日 下午4:43:28
 	*
 	 */
