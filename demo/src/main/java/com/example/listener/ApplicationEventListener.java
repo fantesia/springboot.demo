@@ -15,7 +15,7 @@ import org.springframework.context.event.ContextStoppedEvent;
 * @module  : 模块描述
 * @comment : 模块包括的子功能
 * @Description: 事件监听实现类
-* @author fanqingqing fanqingqing@sjq-it.com
+* @author fanqingqing 
 * @date 2017年6月19日 下午5:11:50
  */
 public class ApplicationEventListener implements ApplicationListener{
